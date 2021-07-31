@@ -15,5 +15,5 @@ stages:
       displayName: Run Regression tests
       continueOnError: true
       inputs:
-        script: 'newman run StarterAPIs.json'
+        script: 'newman run starterAPIs.json'
         #workingDirectory: 'starter-code/postman'
